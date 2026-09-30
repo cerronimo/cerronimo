@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20CerenYıldırım&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=60&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Software+Engineering+%40+EMU;42+Istanbul+Alumni+%F0%9F%9A%80;Building+things+with+Next.js+%26+Python;Always+learning%2C+always+shipping" alt="typing" />
